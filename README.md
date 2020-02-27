@@ -194,7 +194,6 @@ Sorry github does not allow embed videos.
 
 ## Future Rollout:
 
- inventa algo
 
 ## References:
 
